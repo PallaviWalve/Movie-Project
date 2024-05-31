@@ -1,0 +1,24 @@
+.navbar{
+    background-color: gray !important;;
+}
+
+.btn{
+
+    color: white !important;
+   
+
+}
+body {
+    background-color: black;
+}
+a{
+    color: white !important;
+}
+.col-xl-3{
+    color: bisque;
+}
+@media screen and (max-width:576px){
+    .logo{
+        text-align: center;
+    }
+ }
